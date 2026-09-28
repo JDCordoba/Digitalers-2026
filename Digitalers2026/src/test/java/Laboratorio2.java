@@ -12,7 +12,6 @@ import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 
-
 public class Laboratorio2 {
 	
     // Se declará la variable a nivel de clase (Global)
@@ -26,7 +25,6 @@ public class Laboratorio2 {
         // La esperá implicita: Esperá hasta 5 segundos a que los elementos buscados aparezcan por pantalla.
         // driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
     }
-    
     
 	@Test
 	void lab2_E1_localizadores() {
@@ -96,7 +94,6 @@ public class Laboratorio2 {
         }
 	}
 	
-	
 	/*
 	Espera fija: Esperá 15s.
 	Espera implicita: Esperá hasta 15s que pase algo.
@@ -112,7 +109,5 @@ public class Laboratorio2 {
 	    
 	    System.out.println("Después de la pausa");
 	}
-	
-	
 
 }
