@@ -7,6 +7,9 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.WebElement;
+import org.testng.annotations.*;
+import org.testng.Assert; 
+
 
 public class Laboratorio1 {
 
