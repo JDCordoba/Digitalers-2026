@@ -15,9 +15,7 @@ Este repositorio contiene los laboratorios y ejercicios prácticos del proyecto 
 
 ## 📁 Estructura del Proyecto
 
-Digitalers-2026/
-└── Digitalers2026/
-    └── (código fuente de los laboratorios)
+<pre> ``` Digitalers-2026/ └── Digitalers2026/ └── (código fuente de los laboratorios) ``` </pre>
 
 
 ## 🚀 Requisitos Previos
