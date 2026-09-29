@@ -1,48 +1,44 @@
-Digitalers-2026
-Proyecto de automatización de pruebas con Selenium y Java.
+# Digitalers-2026
 
-📋 Descripción
-Este repositorio contiene los laboratorios y ejercicios prácticos del proyecto de automatización desarrollado en el marco del programa Digitalers 2026. El objetivo es aplicar conceptos de testing automatizado sobre aplicaciones web utilizando Selenium WebDriver con Java y Maven como gestor de dependencias.
+Proyecto de Automatización con **Selenium** y **Java**.
 
-🛠️ Tecnologías Utilizadas
-Java – Lenguaje principal del proyecto
+## 📋 Descripción
 
-Selenium WebDriver – Framework para automatización de navegadores
+Este repositorio contiene los laboratorios y ejercicios prácticos del proyecto de automatización de pruebas desarrollado en el marco del programa **Digitalers 2026**. El objetivo es aplicar conceptos de testing automatizado sobre aplicaciones web utilizando Selenium WebDriver con Java y Maven como gestor de dependencias.
 
-Maven – Gestión de dependencias y construcción del proyecto
+## 🛠️ Tecnologías Utilizadas
 
-JUnit / TestNG – Framework de pruebas (según configuración del POM)
+- **Java** – Lenguaje principal del proyecto
+- **Selenium WebDriver** – Framework para automatización de navegadores
+- **Maven** – Gestión de dependencias y construcción del proyecto
+- **JUnit / TestNG** – Framework de pruebas (según configuración del POM)
 
-📁 Estructura del Proyecto
-text
+## 📁 Estructura del Proyecto
+
 Digitalers-2026/
 └── Digitalers2026/
-    └── (código fuente de los laboratorios)
-🚀 Requisitos Previos
+└── (código fuente de los laboratorios)
+
+
+## 🚀 Requisitos Previos
+
 Antes de ejecutar el proyecto, asegurate de tener instalado:
 
-JDK 11 o superior
+- JDK 11 o superior
+- Maven
+- Un IDE como IntelliJ IDEA, Eclipse o VS Code
+- Navegador web compatible (Chrome, Firefox, Edge)
 
-Maven
+## ⚙️ Instalación y Ejecución
 
-Un IDE como IntelliJ IDEA, Eclipse o VS Code
+1. **Clonar el repositorio:**
 
-Navegador web compatible (Chrome, Firefox, Edge)
-
-⚙️ Instalación y Ejecución
-Clonar el repositorio:
-
-bash
+```bash
 git clone https://github.com/JDCordoba/Digitalers-2026.git
 cd Digitalers-2026
-Compilar el proyecto con Maven:
-
-bash
 mvn clean install
-Ejecutar las pruebas:
-
-bash
 mvn test
+
 📝 Laboratorios
 Laboratorio	Descripción	Estado
 Laboratorio 3	Se agrega dependencia al POM y nuevas configuraciones	✅ Finalizado
@@ -56,3 +52,4 @@ Este proyecto se distribuye con fines educativos. Consultá al autor para más d
 JDCordoba
 
 GitHub: @JDCordoba
+
