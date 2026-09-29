@@ -38,18 +38,28 @@ git clone https://github.com/JDCordoba/Digitalers-2026.git
 cd Digitalers-2026
 mvn clean install
 mvn test
+```
 
-📝 Laboratorios
-Laboratorio	Descripción	Estado
-Laboratorio 3	Se agrega dependencia al POM y nuevas configuraciones	✅ Finalizado
-🤝 Contribuciones
-Este es un proyecto educativo personal. Si encontrás algún error o tenés sugerencias, podés abrir un issue o enviar un pull request.
+## 📝 Laboratorios
 
-📄 Licencia
+| Laboratorio | Descripción | Estado |
+|-------------|-------------|--------|
+| Laboratorio 3 | Se agrega dependencia al POM y nuevas configuraciones | ✅ Finalizado |
+
+## 🤝 Contribuciones
+
+Este es un proyecto educativo personal. Si encontrás algún error o tenés sugerencias, podés abrir un *issue* o enviar un *pull request*.
+
+## 📄 Licencia
+
 Este proyecto se distribuye con fines educativos. Consultá al autor para más detalles.
 
-👤 Autor
-JDCordoba
+## 👤 Autor
 
-GitHub: @JDCordoba
+**JDCordoba**
 
+- GitHub: [@JDCordoba](https://github.com/JDCordoba)
+
+---
+
+⭐ Si te resultó útil este proyecto, ¡no olvides darle una estrella!
