@@ -14,9 +14,11 @@ Este repositorio contiene los laboratorios y ejercicios prácticos del proyecto 
 - **JUnit / TestNG** – Framework de pruebas (según configuración del POM)
 
 ## 📁 Estructura del Proyecto
+```
 Digitalers-2026/
 └── Digitalers2026/
 └── (código fuente de los laboratorios)
+```
 
 
 ## 🚀 Requisitos Previos
