@@ -17,7 +17,7 @@ Este repositorio contiene los laboratorios y ejercicios prácticos del proyecto 
 
 Digitalers-2026/
 └── Digitalers2026/
-└── (código fuente de los laboratorios)
+    └── (código fuente de los laboratorios)
 
 
 ## 🚀 Requisitos Previos
