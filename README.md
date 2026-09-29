@@ -56,7 +56,7 @@ Este proyecto se distribuye con fines educativos. Consultá al autor para más d
 
 ## 👤 Autor
 
-**JDCordoba**
+**Juan Cordoba**
 
 - GitHub: [@JDCordoba](https://github.com/JDCordoba)
 
