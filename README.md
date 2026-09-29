@@ -13,9 +13,7 @@ Este repositorio contiene los laboratorios y ejercicios prácticos del proyecto 
 - **Maven** – Gestión de dependencias y construcción del proyecto
 - **JUnit / TestNG** – Framework de pruebas (según configuración del POM)
 
-## 📁 Estructura del Proyecto
-
-<pre> ``` Digitalers-2026/ └── Digitalers2026/ └── (código fuente de los laboratorios) ``` </pre>
+<pre> ## 📁 Estructura del Proyecto ``` Digitalers-2026/ └── Digitalers2026/ └── (código fuente de los laboratorios) ``` </pre>
 
 
 ## 🚀 Requisitos Previos
