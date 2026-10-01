@@ -45,7 +45,7 @@ mvn test
 
 | Laboratorio | Descripción | Estado |
 |-------------|-------------|--------|
-| Laboratorio 3 | Se agrega dependencia al POM y nuevas configuraciones | ✅ Finalizado |
+| Laboratorio 4 | Se sube la resolución del laboratorio 4 | ✅ Finalizado |
 
 ## 🤝 Contribuciones
 
