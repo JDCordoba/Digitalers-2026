@@ -1,3 +1,4 @@
+package sinPOM;
 import java.time.Duration;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
