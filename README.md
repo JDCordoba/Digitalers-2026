@@ -62,5 +62,3 @@ Este proyecto se distribuye con fines educativos. Consultá al autor para más d
 - GitHub: [@JDCordoba](https://github.com/JDCordoba)
 
 ---
-
-⭐ Si te resultó útil este proyecto, ¡no olvides darle una estrella!
