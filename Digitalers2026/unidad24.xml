@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Unidad 24">
+  <test name="Pruebas para laboratorio 24">
+    <classes>
+      <class name="pruebas.Laboratorio5_E1Test"/>
+      <class name="pruebas.Laboratorio5_E2Test"/>
+      <class name="pruebas.Laboratorio5_E3Test"/>
+      <class name="pruebas.Laboratorio5_E4Test"/>
+    </classes>
+  </test>
+</suite>
