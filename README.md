@@ -45,7 +45,7 @@ mvn test
 
 | Laboratorio | Descripción | Estado |
 |-------------|-------------|--------|
-| Laboratorio 4 | Se sube la resolución del laboratorio 4 | ✅ Finalizado |
+| Laboratorio 5/6 | Se sube la resolución de los laboratorios 5 y 6 completados | ✅ Finalizado |
 
 ## 🤝 Contribuciones
 
